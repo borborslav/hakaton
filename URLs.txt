@@ -1,0 +1,3 @@
+------------- інерційна система --------------
+https://arduino-diy.com/arduino-MPU6050-dlya-opredeleniya-ugla-naklona  гіроскоп
+
